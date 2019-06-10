@@ -1,6 +1,8 @@
 import requests
 import os
 
+os.system("clear")
+
 # banner
 f=open("banner.txt",'r')
 data=f.read()
